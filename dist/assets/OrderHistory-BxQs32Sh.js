@@ -1,0 +1,1 @@
+import{c as a,R as t}from"./index-DV2AMAsk.js";function l(){const{orders:r}=a();return t.createElement("section",{className:"panel"},t.createElement("h2",null,"Order History"),r.length?r.map(e=>t.createElement("p",{key:e.id},"Order #",e.id," — ",e.date," — ₹",e.total)):t.createElement("p",null,"No previous orders."))}export{l as default};

@@ -1,0 +1,1 @@
+import{R as e,L as r,O as t}from"./index-DV2AMAsk.js";function s(){return e.createElement("section",{className:"page"},e.createElement("h1",null,"My Orders"),e.createElement("div",{className:"tabs"},e.createElement(r,{to:"/orders/current"},"Current Orders"),e.createElement(r,{to:"/orders/history"},"Order History")),e.createElement(t,null))}export{s as default};
